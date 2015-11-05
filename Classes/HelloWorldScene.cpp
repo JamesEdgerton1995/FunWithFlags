@@ -5,6 +5,7 @@
 
 USING_NS_CC;
 // Test Comment 222
+// Test Comment	Two
 #define COCOS2D_DEBUG 1
 using namespace cocostudio::timeline;
 
